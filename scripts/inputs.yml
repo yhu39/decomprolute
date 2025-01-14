@@ -1,0 +1,7 @@
+signature:
+  class: File
+  path:  /Users/yingweihu/Documents/GitHub/decomprolute/signature_matrices/LM9.txt
+alg: "xcell"
+matrix:
+  class: File
+  path: /Users/yingweihu/Documents/GitHub/decomprolute/protData/data/hnscc.tsv

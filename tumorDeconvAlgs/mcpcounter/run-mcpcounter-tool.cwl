@@ -12,7 +12,7 @@ arguments:
 
 requirements:
   - class: DockerRequirement
-    dockerPull: tumordeconv/mcpcounter
+    dockerPull: mymcpcounter
   - class: InlineJavascriptRequirement
 
 inputs:

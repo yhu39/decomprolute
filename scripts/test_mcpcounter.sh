@@ -1,0 +1,1 @@
+cwltool /Users/yingweihu/Documents/GitHub/decomprolute/metrics/prot-deconv.cwl --cancer hnscc --protAlg mcpcounter --sampleType tumor --signature LM9

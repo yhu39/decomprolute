@@ -1,0 +1,1 @@
+cwltool /Users/yingweihu/Documents/GitHub/decomprolute/tumorDeconvAlgs/xcell/run-xcell-tool-i64.cwl /Users/yingweihu/Documents/GitHub/decomprolute/scripts/inputs-xcell.yml

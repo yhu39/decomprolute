@@ -1,0 +1,1 @@
+cwltool /Users/yingweihu/Documents/GitHub/decomprolute/tumorDeconvAlgs/run-deconv.cwl /Users/yingweihu/Documents/GitHub/decomprolute/scripts/inputs.yml

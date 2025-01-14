@@ -1,0 +1,1 @@
+cwltool /Users/yingweihu/Documents/GitHub/decomprolute/metrics/mrna-prot/run-best-alg-by-cor.cwl /Users/yingweihu/Documents/GitHub/decomprolute/metrics/mrna-prot/best-test2.yml

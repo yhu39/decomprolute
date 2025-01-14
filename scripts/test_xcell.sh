@@ -1,0 +1,1 @@
+cwltool --leave-tmpdir /Users/yingweihu/Documents/GitHub/decomprolute/metrics/prot-deconv.cwl --cancer hnscc --protAlg xcell --sampleType tumor --signature LM9
