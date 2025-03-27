@@ -1,0 +1,4 @@
+
+expression:
+  class: File
+  path: /mnt/d/yhu39/project/sctProt/data/LMD_PancreaticCancer_Quant_Spectranout_RAW_log2_imputed.tsv

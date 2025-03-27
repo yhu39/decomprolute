@@ -1,0 +1,1 @@
+cwltool /mnt/d/yhu39/github/decomprolute/tumorDeconvAlgs/run-deconv.cwl /mnt/d/yhu39/github/decomprolute/scripts/inputs-mcpcounter-wsl2-sct.yml
